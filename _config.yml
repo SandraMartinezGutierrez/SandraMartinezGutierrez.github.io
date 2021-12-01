@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sandra Martínez Gutiérrez /Economics Student, PUCP"
+title                    : "Sandra Martínez Gutiérrez"
 title_separator          : "-"
 name                     : &name "Sandra Martínez Gutiérrez"
 description              : &description "Economics Student"
@@ -175,16 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  cv:
     output: true
     permalink: /:collection/:path/
 
@@ -235,7 +229,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
