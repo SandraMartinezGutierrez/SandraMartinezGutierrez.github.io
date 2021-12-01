@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+_____
 Education
 ======
 * Pursiung a B.S. degree in Economics at the Pontifical Catholic University of Peru (PUCP), Top 4%
 * Posgraduate student in Data Science for Public Management and Social Sciences, Pontifical Catholic University of Peru (PUCP)
 * Posgraduate student in Cross Sectional and Panel Data Advanced Econometrics, Master's degree in Economics, Pontifical Catholic University of Peru (PUCP)
+_____
 
 Work experience
 ======
@@ -24,6 +25,7 @@ Work experience
     * Writing reports and memories about each experiment
     * Analyze and process databases of experiments
   * Supervisor: Professor Ricardo Huamán
+_____
 
 
 Skills
@@ -44,6 +46,7 @@ Skills
   * MS Excel 
   * MS Power Point
   * MS Word
+_____
 
 
 Courses
@@ -55,6 +58,7 @@ Courses
 * Topics in Mathematical and Computational Economics (**PUCP**)
 * Inferential Statistics and Machine Learning (**PUCP**)
 * Python for Economics and Finance (**PUCP**)
+_____
 
 Languages
 ======
