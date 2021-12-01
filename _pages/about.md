@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-===
+______
 
 ![PUCP](images/pucp.jpg) 
 
