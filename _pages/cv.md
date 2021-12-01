@@ -11,49 +11,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Pursiung a B.S. degree in Economics at the Pontifical Catholic University of Peru (PUCP), Top 4%
+* Posgraduate student in Data Science for Public Management and Social Sciences, Pontifical Catholic University of Peru (PUCP)
+* Posgraduate student in Cross Sectional and Panel Data Advanced Econometrics, Master's degree in Economics, Pontifical Catholic University of Peru (PUCP)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant
+  * Pontifical Catholic University of Peru (PUCP)
+  * Duties included:      
+    * Programming and design experiments in Python
+    * Writing reports and memories about each experiment
+    * Analyze and process databases of experiments
+  * Supervisor: Professor Ricardo Huamán
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming:
+  * Python
+  * R
+  * Stata
+  * Matlab
+  * E-views
+  * SQL
+  * Matlab
+  * Power-BI
+  * Tableu
+  * LaTeX
+  * ArcGis
+* Softwares:
+  * MS Excel 
+  * MS Power Point
+  * MS Word
 
-Publications
+
+Courses
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Applied Econometrics (**QLAB-PUCP**)
+* Natural Language Processing (**QLAB-PUCP**)
+* Dashboard Development Workshop with Shinny (**QLAB-PUCP**)
+* Inferential and Applied Statistics for Social Analysis (**CISEPA-PUCP**)
+* Topics in Mathematical and Computational Economics (**PUCP**)
+* Inferential Statistics and Machine Learning (**PUCP**)
+* Python for Economics and Finance (**PUCP**)
+
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Spanish (Native)
+* English (B2 level - University of Cambridge)
+* Portuguese (Intermediate)
+* French (Basic)

@@ -18,7 +18,7 @@ Welcome to my website! My name is Sandra Martínez Gutiérrez, last-year undergr
 
 * Data Science
 
-* DatA Analytics
+* Data Analytics
 
 * Finance
 
