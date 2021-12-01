@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+_______
 
 * Pursuing a B.S. degree in Economics at the Pontifical Catholic University of Peru (PUCP), Top 4%
 * Postgraduate student in Data Science for Public Management and Social Sciences, Pontifical Catholic University of Peru (PUCP)
@@ -18,6 +19,8 @@ Education
 
 Work experience
 ======
+_______
+
 * Research Assistant
   * Pontifical Catholic University of Peru (PUCP)
   * Duties included:      
@@ -28,6 +31,8 @@ Work experience
 
 Skills
 ======
+_______
+
 * Programming:
   * Python
   * R
@@ -48,6 +53,8 @@ Skills
 
 Courses
 ======
+_______
+
 * Applied Econometrics (**QLAB-PUCP**)
 * Natural Language Processing (**QLAB-PUCP**)
 * Dashboard Development Workshop with Shinny (**QLAB-PUCP**)
@@ -58,6 +65,7 @@ Courses
 
 Languages
 ======
+_______
 * Spanish (Native)
 * English (B2 level - University of Cambridge)
 * Portuguese (Intermediate)
