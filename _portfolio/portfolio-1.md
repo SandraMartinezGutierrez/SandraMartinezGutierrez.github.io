@@ -6,3 +6,5 @@ collection: portfolio
 
 Repositorio en GitHub sobre el curso de Estadística Inferencial y Machine Learning en la PUCP.
 [Ver aquí](https://github.com/SandraMartinezGutierrez/ECO224)
+
+
