@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Estadística Inferencial y Machine Learning"
+# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-ggggs
+Repositorio en GitHub sobre el curso de Estadística Inferencial y Machine Learning en la PUCP.
+[Ver aquí](https://github.com/SandraMartinezGutierrez/ECO224)
