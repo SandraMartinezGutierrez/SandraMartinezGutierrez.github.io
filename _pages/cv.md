@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-_____
+
 Education
 ======
+_____
 * Pursuing a B.S. degree in Economics at the Pontifical Catholic University of Peru (PUCP), Top 4%
 * Postgraduate student in Data Science for Public Management and Social Sciences, Pontifical Catholic University of Peru (PUCP)
 * Postgraduate student in Cross Sectional and Panel Data Advanced Econometrics, Master's degree in Economics, Pontifical Catholic University of Peru (PUCP)
