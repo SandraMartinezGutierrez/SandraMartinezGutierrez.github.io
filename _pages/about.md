@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-images/pucp.jpg
+![PUCP](images/pucp.jpg) 
 
 Welcome to my website! My name is Sandra Martínez Gutiérrez, last-year undergraduate Economics student, and this is my online presence. I am currently a Research Assistant at the Behavioural Economics' Laboratory from the Pontifical Catholic University of Peru. My research interests are, but not limited to, the following:
 
-    * Data Science
+* Data Science
 
-    * DatA Analytics
+* DatA Analytics
 
-    * Finance
+* Finance
 
 
 Next to economics, I am also passionate about computer science and programming. Parallel to my B.S., I have familiarized myself with the theory of algorithms & data structures and have a solid foundation in languages such as Python, R, Stata, Matlab, E-views, SQL, Power-BI, anf Tableu.
