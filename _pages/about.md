@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+===
+
 ![PUCP](images/pucp.jpg) 
+
+
 
 Welcome to my website! My name is Sandra Martínez Gutiérrez, last-year undergraduate Economics student, and this is my online presence. I am currently a Research Assistant at the Behavioural Economics' Laboratory from the Pontifical Catholic University of Peru. My research interests are, but not limited to, the following:
 
