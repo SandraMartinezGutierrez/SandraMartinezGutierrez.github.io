@@ -11,9 +11,9 @@ redirect_from:
 _____
 Education
 ======
-* Pursiung a B.S. degree in Economics at the Pontifical Catholic University of Peru (PUCP), Top 4%
-* Posgraduate student in Data Science for Public Management and Social Sciences, Pontifical Catholic University of Peru (PUCP)
-* Posgraduate student in Cross Sectional and Panel Data Advanced Econometrics, Master's degree in Economics, Pontifical Catholic University of Peru (PUCP)
+* Pursuing a B.S. degree in Economics at the Pontifical Catholic University of Peru (PUCP), Top 4%
+* Postgraduate student in Data Science for Public Management and Social Sciences, Pontifical Catholic University of Peru (PUCP)
+* Postgraduate student in Cross Sectional and Panel Data Advanced Econometrics, Master's degree in Economics, Pontifical Catholic University of Peru (PUCP)
 _____
 
 Work experience
