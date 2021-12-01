@@ -22,6 +22,8 @@ Welcome to my website! My name is Sandra Martínez Gutiérrez, last-year undergr
 
 * Finance
 
+* Applied Microeconomics
+
 
 Next to economics, I am also passionate about computer science and programming. Parallel to my B.S., I have familiarized myself with the theory of algorithms & data structures and have a solid foundation in languages such as Python, R, Stata, Matlab, E-views, SQL, Power-BI, anf Tableu.
 
